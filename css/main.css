@@ -1,0 +1,28 @@
+stan:first-child{
+  font-size:40px;
+  color:deepskyblue;
+  font-weight:bolder;
+  }
+
+stan:nth-child(2){
+  font-size:40px;
+  color:deepskyblue;
+  font-weight:lighter
+}
+
+.title{
+  color:deepskyblue;
+  font-weight:bold;
+}
+
+.a{
+  font-weight:bold;
+}
+
+tr:nth-child(even){
+  background-color:#DCDCDC	
+}
+
+td:nth-child(even){
+  text-align:right;
+}
